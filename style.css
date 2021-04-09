@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+	border-sizing: border-box;
+}
+body{
+	background-color: teal;
+	font-family: acumin pro condensed;
+	text-align: center;
+
+}
+
+input{
+	border:none;
+	color: black;
+	font-weight: 300;
+	background-color: aquamarine;
+	font-size: 32px;
+	height: 56px;
+	text-align: center;
+	width: 420px;
+	outline: none;
+	font-style: graduate font;
+	padding: 0px 0px -3;
+}
+button{
+	height: 45px
+	width: 350px;
+	font-size: 35px;
+	background-color: orange;
+	color: black;
+	font-weight: 630;
+	border: 2px green;
+	box-shadow: 4px 4px 4px #fff, -4px -4px 8px;
+
+}
+.result{
+	margin: auto;
+	margin-top: 15px;
+	height: 175px;
+	width: 450px;
+	background-color: #091921;
+	border-radius: 15px;
+	color: white;
+	font-weight: 850;
+	font-size: 35px;
+
+}
+
